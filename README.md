@@ -1,2 +1,2 @@
-# PythonCITemplate
-Continuous testing template for python projects. Read "run.txt" to see, how to run it
+# Crypto32Dbg
+Windows-32 scripting debugger in python
